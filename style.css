@@ -1,0 +1,99 @@
+/* Sistemazione dell'header*/
+
+Header{
+    background-image: url(img/pattern.png);
+    background-position: 0% 10%;
+    background-size: 22%;
+    padding-top: 2%;
+    padding-bottom: 0.5%;
+    padding-left: 7%;
+    background-color: #4ea0ff;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+Header img {
+   
+    width: 10%;
+    height: auto;
+}
+
+main {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.inline-block {
+    display: inline-block;
+    margin-bottom: -15px;
+}
+
+.grigio {
+    color: #a7a7a7;
+}
+
+.azzurrino {
+    color: #94d5f2;
+}
+
+main h1 {
+    margin-bottom: -15px;
+}
+
+.minorem {
+    font-size: 0.8em;
+}
+
+#menodiciotto{
+    margin-top: -18px;
+}
+
+.evidenziatore {
+    background-color: yellow;
+}
+
+th {
+    color: white;
+    text-align: left;
+    background-color: #20a9e5;
+}
+
+.space {
+    width: 25%;
+}
+
+.sfondo-azzurro {
+    background-color: #b1e5f2;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+#interest {
+    font-size: 1.5em;
+}
+
+#imguno {
+    background-image: url(img/monitor.jpg);
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+#imgdue {
+    background-image: url(img/graph.jpg);
+}
+
+.allineamento {
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 10px 200px 200px 10px;
+    text-align: top;
+    color: white;
+    font-size: 2em ;
+    font-weight: 600;
+}
+
+#maggiorbordo {
+    padding-bottom: +10px;
+}
